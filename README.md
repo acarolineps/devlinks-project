@@ -26,6 +26,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+Clique aqui: <a href="https://acarolineps.github.io/devlinks-project/"/>
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
